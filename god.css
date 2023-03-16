@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+.calculator {
+     background-color: pink 205, 43, 266;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .calculator{
+    width: 25rem;
+    height: 80%;
+    background-color: black;
+    border-radius: 40px;
+    display: flex;
+    }
+
+    .calculator{
+        width:30rem;
+        height: 100%;
+    }
+
+
+    
